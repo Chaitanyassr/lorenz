@@ -9,6 +9,14 @@ body {
   to {background-color: blue;}
 }
 
+.Words{
+	 border: 2px solid black;
+     outline: #4CAF50 solid 10px;
+     margin: auto;  
+     padding: 20px;
+     color: white;
+	text-align: center;
+}
 .Words:hover + .hide{
 	display: block;
 	 border: 2px solid black;
